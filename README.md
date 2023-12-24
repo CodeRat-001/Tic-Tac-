@@ -1,3 +1,1 @@
-# ConsoleApp2
-
-Tic TaC Toe game 
+Primitive Tic Tac Toe game 
